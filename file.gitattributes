@@ -3,3 +3,5 @@
 git lfs track "*.pkl"
 git lfs track "*.sqlite"
 git add .gitattributes
+# Ignore large or unnecessary files
+database.sqlite
